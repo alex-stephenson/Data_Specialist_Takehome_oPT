@@ -18,7 +18,7 @@ Households who were in the initial assessment (cohort one) were asked if they co
 |--------|-----------|-----------|
 | Initial assessment | June 2024 (in-person) | November 2025 (in-person) |
 | Follow-up | Remote assessments every ~3 months | First follow-up in January 2026 |
-| Re-contact consent | Yes | Yes |
+| Re-contact consent | Participants asked if they consent to future rounds | Participants asked if they consent to future rounds |
 | Sampling frame | Proportionate to population at governorate level | Proportionate to population at governorate level |
 | Stratification | Building type | Building type |
 | Margin of error | 3% | 3% |
@@ -28,7 +28,7 @@ Households who were in the initial assessment (cohort one) were asked if they co
 
 ### January 2026 Remote Round
 - The dataset included in this repository is the Jan 2026 assessment.
-- This was a remote assessment conducted with **both cohorts**, using the sample questions for both cohorts.
+- This was a remote assessment conducted with **both cohorts**, using the same questions for both cohorts.
 - The Kobo tool in the repository includes:
   - Structural variables (demographics, location, etc.).
   - Outcome indicators.
@@ -38,7 +38,7 @@ Households who were in the initial assessment (cohort one) were asked if they co
 
 ## Dataset Description
 
-- Columns to the right of `uuid` are **composite indicators** (pre-calculated).
+- Columns to the right of `uuid` are **composite indicators**.
 - Assume these indicators are **correct**.
 
 Some of the indicators you _may_ want to consider:
