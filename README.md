@@ -10,7 +10,7 @@ This repository contains the starter code and instructions for the Data Speciali
 ## Files
 
 *   `INSTRUCTIONS.md`: The detailed take-home test instructions.
-*   `main.R`: Starter code for the 
+*   `main.R`: Sample R file for code submission.
 *   `WANP Tool.xlsx`: The Kobo Survey and Choices included in the assessment. 
 *   `Walloland_WANP_clean_data.xlsx` The data set provided. 
 
